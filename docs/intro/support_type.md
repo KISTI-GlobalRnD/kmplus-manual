@@ -1,12 +1,14 @@
 ---
-title: 처리 가능 데이터 유형
-sidebar_label: 데이터 유형
+title: 처리 가능한 데이터 유형
+sidebar_label: 처리 가능한 데이터 유형
 sidebar_position: 3
 ---
 
-## KM+에서 처리 가능한 데이터 유형은 두 가지 입니다.
+### KM+에서 처리 가능한 데이터 유형은 두 가지 입니다.
 1) 사전에 정의한 데이터 (import filter를 이용하여 반입)
 2) 엑셀 형식으로 작성된 필드화된 데이터
+
+---
 
 ### Import filter로 처리 가능한 데이터 유형
 
