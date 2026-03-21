@@ -12,7 +12,6 @@ sidebar_position: 3
 * OPEN ALEX: CSV format (comma-separated format)
 * SCOPUS: CSV format (comma-separated format)
 * SCOPUS (KISTI DB): Excel
-* GPASS (KISTI DB): Excel
 * Dimensions (논문): Excel
 * Dimensions (특허): Excel
 * Dimensions (과제): Excel
