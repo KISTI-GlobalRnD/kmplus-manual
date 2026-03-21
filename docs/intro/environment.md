@@ -3,19 +3,19 @@ title: 설치 환경
 sidebar_position: 4
 ---
 
-## 시스템 요구사항
+## 1. 시스템 요구사항
 
-* KnowledgeMatrix Plus는 개인용 PC에서 작동하는 독립형(Stand‐alone) 시스템
-* KnowledgeMatrix Plus가 효과적으로 작동되기 위한 PC시스템의 최소 사양은 다음과 같음.
+* KM+는 PC에서 작동하는 독립형(Stand‐alone) 시스템입니다.
+* KM+가 효과적으로 작동되기 위한 PC시스템의 최소 사양은 다음과 같습니다.
 * 최소사양
   * CPU : Pentium 4 이상
   * OS 환경 : Windows / iOS
   * 메모리 : 3 GB 이상
   * 설치 사이즈 : 500 MegaByte
 * 설치 과정
-  * 별도의 설치 과정 없이 다운로드 받은 파일을 압축 해제 후 실행
+  * 별도의 설치 과정 없이 다운로드 받은 파일을 압축 해제 후 실행합니다.
 
-## KM 데이터 처리 능력
+## 2. KM 데이터 처리 능력
 
 * 반입 레코드(Importing Raw Record) 수 제한
   * 메모리 3,912MB까지 사용 가능
