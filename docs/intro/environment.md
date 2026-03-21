@@ -18,7 +18,7 @@ sidebar_position: 4
 ## KM 데이터 처리 능력
 
 * 반입 레코드(Importing Raw Record) 수 제한
-  * 메모리 사용량 3,912MB까지 사용 가능
+  * 메모리 3,912MB까지 사용 가능
   * 안정적인 레코드(Raw Record) 수는 WoS Plain Text 파일 기준 25,000건 내외
 * Excel Export 제한
   * Excel 워크시트 제한(1,048,576 * 16,384)으로 인하여, 이를 초과하는 데이터의 Excel Export 시에 에러 발생
