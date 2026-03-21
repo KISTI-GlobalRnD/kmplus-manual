@@ -10,7 +10,7 @@ sidebar_position: 3
 
 ---
 
-### Import filter로 처리 가능한 데이터 유형
+### 1. Import filter로 처리 가능한 데이터 유형
 
 * Web of Science: Plain text, TSV format(tab-separated format), Excel
 * OPEN ALEX: CSV format (comma-separated format)
@@ -37,8 +37,10 @@ sidebar_position: 3
 * KCI: Excel
 * KIPRIS: Excel
 
-### Excel 파일
+### 2. Excel 파일
 
-* 첫 번째 열에 필드 이름, 두 번째 열 이하부터 데이터 레코드(행 단위로 구분자가 동일해야 함)
+* 첫 번째 열에 필드 이름, 두 번째 열 이하부터 데이터 레코드로 구성된 데이터
+* 각 필드마다 행 단위로 구분자가 동일해야 함
+* 데이터 반입 시, 필드별 구분자를 지정하여 데이터 반입을 하게 됨
 
 
