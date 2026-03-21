@@ -8,7 +8,7 @@ sidebar_position: 1
 1) 임포트 필터를 활용한 방식
 2) 엑셀 파일을 불러오는 방식
 
-## 1) 임포트 필터를 활용한 프로젝트 생성 (Import filter)
+## 1) 임포트 필터를 활용 방식 (Import filter)
 
 KM+에 내장된 Import Filter를 사용하여 프로젝트를 생성합니다.
 
@@ -31,7 +31,7 @@ KM+에 내장된 Import Filter를 사용하여 프로젝트를 생성합니다.
    
 ![프로젝트 생성 Import filter](/img/screenshots/create-project-4.png)
 
-## 2) 엑셀 파일을 반입하여 프로젝트 생성 (Excel)
+## 2) 엑셀 파일을 반입 방식 (Excel)
 
 구조화된 문서에서 필드별 구분자를 사용자가 직접 입력하여 프로젝트를 생성합니다.
 
