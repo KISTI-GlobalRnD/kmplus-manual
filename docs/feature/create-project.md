@@ -24,8 +24,11 @@ KM+에 내장된 Import Filter를 사용하여 프로젝트를 생성합니다.
     * **File Type** 을 선택합니다.
     * **Add File** 을 클릭하여 읽어올 파일을 선택합니다.
 3. 완료 버튼을 클릭합니다.
-4. 데이터 불러오기가 완료되면 요약 화면이 나타납니다.
+
 ![프로젝트 생성 Import filter](/img/screenshots/create-project-3.png)
+
+4. 데이터 불러오기가 완료되면 요약 화면이 나타납니다.
+   
 ![프로젝트 생성 Import filter](/img/screenshots/create-project-4.png)
 
 ## 2) 엑셀 파일을 반입하여 프로젝트 생성 (Excel)
