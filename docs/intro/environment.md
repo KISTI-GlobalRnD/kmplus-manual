@@ -11,7 +11,7 @@ sidebar_position: 4
   * CPU : Pentium 4 이상
   * OS 환경 : Windows / iOS
   * 메모리 : 3 GB 이상
-  * 설치 사이즈 : 180 MegaByte
+  * 설치 사이즈 : 500 MegaByte
 * 설치 과정
   * 별도의 설치 과정 없이 다운로드 받은 파일을 압축 해제 후 실행
 
