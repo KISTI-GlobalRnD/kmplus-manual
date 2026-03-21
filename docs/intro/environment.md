@@ -22,4 +22,5 @@ sidebar_position: 4
   * 안정적인 레코드(Raw Record) 수는 WoS Plain Text 파일 기준 25,000건 내외
 * Excel Export 제한
   * Excel 워크시트 제한(1,048,576 * 16,384)으로 인하여, 이를 초과하는 데이터의 Excel Export 시에 에러 발생
-※ 사용자의 PC 환경에 따라 데이터 처리 능력은 다를 수 있습니다.
+ 
+(단. 사용자의 PC 환경에 따라 데이터 처리 능력은 다를 수 있습니다.)
