@@ -2,7 +2,7 @@
 title: 툴바
 sidebar_position: 3
 ---
-KM+ 는 자주 사용되는 기능에 대한 바로 가기 버튼을 제공합니다.
+자주 사용하는 기능에 대하여 바로 가기 버튼을 제공합니다.
 
 ![툴바](/img/screenshots/toolbar.png)
 
