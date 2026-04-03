@@ -3,9 +3,11 @@ slug: /
 title: 프로그램 소개
 sidebar_position: 1
 ---
+<strong>KnowledgeMatrix Plus</strong>
+
 ![메인이미지](/img/screenshots/KM_Splash_260402.png)
 
-## 1. KnowledgeMatrix Plus
+## 1. 프로그램 소개
 
 <strong>KnowledgeMatrix Plus (이하 KM+)</strong>는 논문, 특허 등 구조화된 텍스트 데이터에서 필요한 정보를 쉽게 추출하여, 데이터 전처리와 네트워크 분석을 효율적으로 지원하는 **과학계량 분석 소프트웨어**입니다.
 
