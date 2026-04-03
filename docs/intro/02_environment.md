@@ -1,5 +1,5 @@
 ---
-title: 설치 환경
+title: 구동 환경
 sidebar_position: 2
 ---
 
