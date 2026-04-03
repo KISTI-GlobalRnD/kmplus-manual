@@ -3,6 +3,7 @@ slug: /
 title: 프로그램 개요
 sidebar_position: 1
 ---
+![메인이미지](/img/screenshots/KM_Splash_260402.png)
 
 ## 1. 프로그램 개요
 
