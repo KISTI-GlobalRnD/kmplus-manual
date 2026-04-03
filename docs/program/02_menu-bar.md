@@ -2,7 +2,7 @@
 title: 메뉴 바
 sidebar_position: 2
 ---
-메뉴 바는 KM+의 핵심 기능을 카테고리별로 정리해 두었습니다.
+KM+의 핵심 기능을 카테고리별로 제공합니다.
 
 ![메뉴바](/img/screenshots/menubar.png)
 
