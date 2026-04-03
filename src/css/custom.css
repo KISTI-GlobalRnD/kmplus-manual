@@ -24,3 +24,22 @@
     --ifm-color-primary-lightest: #4fddbf;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* 문서 본문 텍스트 크기 */
+.markdown {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* 제목(h1, h2, h3) 크기가 너무 크다면 */
+.markdown h1 {
+  font-size: 2rem;
+}
+.markdown h2 {
+  font-size: 1.5rem;
+}
+
+/* 사이드바 글씨 크기 조절 */
+.theme-doc-sidebar-menu {
+  font-size: 0.9rem;
+}
