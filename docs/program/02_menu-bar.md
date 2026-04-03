@@ -12,7 +12,7 @@ sidebar_position: 2
 * **설정 (Settings):** 보기 설정, 임포트 필터 뷰어(Import Filter Viewer), 시소러스 에디터(Thesaurus Editor) 등을 포함합니다.
 * **도움말 (Help):** 매뉴얼, 튜토리얼, 프로그램 정보 등을 확인할 수 있습니다.
   
-### Home
+## 1. Home
 
 ![Home](/img/screenshots/menubar-home.png)
 
@@ -22,7 +22,7 @@ sidebar_position: 2
 | **Save as**          | 현재 작업 중인 프로젝트를 새로운 이름이나 위치에 저장합니다.              |
 | **Close**            | 현재 프로젝트 저장 여부를 묻고 프로그램을 종료합니다.                      |
 
-### Pre-processing
+## 2. Pre-processing
 
 ![pre-processing](/img/screenshots/menubar-preprocessing.png)
 
@@ -35,16 +35,16 @@ sidebar_position: 2
 |                                 | Korean Nouns          | 선택된 필드에서 한글 명사를 추출합니다.                                                        |
 | **Bind Fields**                |                       | 클릭하여 **Bind Field** 다이얼로그를 열고 사용자가 선택한 필드를 하나로 합친 새로운 필드를 생성합니다. |
 
-### Analysis
+## 3. Analysis
 
 ![analysis](/img/screenshots/menubar-analysis.png)
 
 | 메뉴 항목     | 동작                                                                                               |
 | :------------ | :------------------------------------------------------------------------------------------------- |
 | **2D Matrix** | 클릭하여 **2D Matrix** 다이얼로그를 열고 2개의 필드를 선택하여 행렬 뷰를 생성합니다.               |
-| **MultiList** | 클릭하여 **MultiList** 다이얼로그를 열고 3개의 필드를 선택하여 필드 리스트 뷰 형식으로 나타냅니다. |
+| **Multi List** | 클릭하여 **MultiList** 다이얼로그를 열고 3개의 필드를 선택하여 필드 리스트 뷰 형식으로 나타냅니다. |
 
-### Chart
+## 4. Chart
 
 ![chart](/img/screenshots/menubar-chart.png)
 
@@ -52,7 +52,7 @@ sidebar_position: 2
 | :------------- | :----------------------------------------------------------- |
 | **List Chart** | 클릭하여 **List Chart** 다이얼로그를 열고 차트를 생성합니다. |
 
-### Setting
+## 5. Setting
 
 ![setting](/img/screenshots/menubar-setting.png)
 
