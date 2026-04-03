@@ -1,9 +1,8 @@
 ---
 slug: /
-title: 소개
+title: KM+ 소개
 sidebar_position: 1
 ---
-## KnowledgeMatrix Plus
 
 ![메인이미지](/img/screenshots/KM_Splash_260402.png)
 
