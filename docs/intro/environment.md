@@ -1,6 +1,6 @@
 ---
 title: 설치 환경
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 ## 1. 시스템 요구사항
