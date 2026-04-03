@@ -1,7 +1,7 @@
 ---
 title: 처리 가능한 데이터 유형
 sidebar_label: 처리 가능한 데이터 유형
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ### 처리 가능한 데이터 유형
