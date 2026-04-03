@@ -1,6 +1,6 @@
 ---
-title: 처리 가능한 데이터 유형
-sidebar_label: 처리 가능한 데이터 유형
+title: 활용 가능 데이터
+sidebar_label: 활용 가능 데이터
 sidebar_position: 3
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 3
 
 ---
 
-### 1. Import Filter로 처리 가능한 데이터
+## 1. Import Filter로 처리 가능한 데이터
 
 * Web of Science: Plain text, TSV format(tab-separated format), Excel
 * OPEN ALEX: CSV format (comma-separated format)
@@ -37,7 +37,7 @@ sidebar_position: 3
 * KCI: Excel
 * KIPRIS: Excel
 
-### 2. Excel 파일
+## 2. Excel 파일
 
 * 첫 번째 열에 필드 이름, 두 번째 열 이하부터 데이터 레코드로 구성된 데이터
 * 각 필드마다 행 단위로 구분자가 동일해야 함
