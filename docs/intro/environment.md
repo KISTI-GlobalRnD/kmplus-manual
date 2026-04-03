@@ -12,8 +12,7 @@ sidebar_position: 4
   * OS 환경 : Windows
   * 메모리 : 8 GB 이상
   * 설치 사이즈 : 500 MegaByte
-* 설치 및 구동
-  * 별도의 설치 과정 없이 다운로드 받은 파일을 압축 해제 후 실행합니다.
+* KM+는 별도의 설치 과정 없이 다운로드 받은 파일을 압축 해제 후 KnowledgeMatrixPlus.exe 를 실행하여 구동합니다.
 
 ## 2. 데이터 처리 가능 범위
 
