@@ -1,6 +1,6 @@
 ---
 slug: /
-title: 개요
+title: 소개
 sidebar_position: 1
 ---
 ## KnowledgeMatrix Plus
