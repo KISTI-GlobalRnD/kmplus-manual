@@ -10,7 +10,7 @@ sidebar_position: 3
 
 ---
 
-### 1. Import filter로 처리 가능한 데이터 유형
+### 1. Import Filter로 처리 가능한 데이터
 
 * Web of Science: Plain text, TSV format(tab-separated format), Excel
 * OPEN ALEX: CSV format (comma-separated format)
