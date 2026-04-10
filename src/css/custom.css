@@ -1,6 +1,8 @@
 /**
  * KnowledgeMatrix Plus 매뉴얼 커스텀 스타일
  */
+/* 나눔고딕 폰트 불러오기 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
 
 :root {
     --ifm-color-primary: #2e8555;
@@ -27,7 +29,7 @@
 
 /* 문서 본문 텍스트 크기 */
 .markdown {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.6;
 }
 
