@@ -16,7 +16,7 @@
     "dependencies": {
         "@docusaurus/core": "3.9.2",
         "@docusaurus/preset-classic": "3.9.2",
-        "@easyops-cn/docusaurus-search-local": "^0.52.2",
+        "@easyops-cn/docusaurus-search-local": "0.52.2",
         "@mdx-js/react": "^3.0.0",
         "clsx": "^2.0.0",
         "prism-react-renderer": "^2.3.0",
@@ -31,7 +31,8 @@
         "docusaurus-prince-pdf": "^1.2.1",
         "pdf-lib": "^1.17.1",
         "puppeteer": "^24.32.0",
-        "typescript": "~5.6.2"
+        "typescript": "~5.6.2",
+        "webpack": "5.105.0"
     },
     "browserslist": {
         "production": [

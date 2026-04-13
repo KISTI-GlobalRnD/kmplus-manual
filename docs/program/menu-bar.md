@@ -23,7 +23,7 @@ KM+의 핵심 기능을 카테고리별로 제공합니다.
 | **Save as**          | 현재 작업 중인 프로젝트를 새로운 이름이나 위치에 저장합니다.              |
 | **Close**            | 현재 프로젝트 저장 여부를 묻고 프로그램을 종료합니다.                      |
 
-## 2. 전처리 (Pre-processing)
+## 2. 전처리 (Pre-processing) {#pre-processing}
 
 ![pre-processing](/img/screenshots/menubar-preprocessing.png)
 
@@ -36,7 +36,7 @@ KM+의 핵심 기능을 카테고리별로 제공합니다.
 |                                 | Korean Nouns          | 선택된 필드에서 한글 명사를 추출합니다.                                                        |
 | **Bind Fields**                |                       | 클릭하여 **Bind Field** 다이얼로그를 열고 사용자가 선택한 필드를 하나로 합친 새로운 필드를 생성합니다. |
 
-## 3. 분석 (Analysis)
+## 3. 분석 (Analysis) {#analysis}
 
 ![analysis](/img/screenshots/menubar-analysis.png)
 
@@ -45,7 +45,7 @@ KM+의 핵심 기능을 카테고리별로 제공합니다.
 | **2D Matrix** | 클릭하여 **2D Matrix** 다이얼로그를 열고 2개의 필드를 선택하여 행렬 뷰를 생성합니다.               |
 | **Multi List** | 클릭하여 **MultiList** 다이얼로그를 열고 3개의 필드를 선택하여 필드 리스트 뷰 형식으로 나타냅니다. |
 
-## 4. Chart
+## 4. Chart {#chart}
 
 ![chart](/img/screenshots/menubar-chart.png)
 
@@ -53,7 +53,7 @@ KM+의 핵심 기능을 카테고리별로 제공합니다.
 | :------------- | :----------------------------------------------------------- |
 | **List Chart** | 클릭하여 **List Chart** 다이얼로그를 열고 차트를 생성합니다. |
 
-## 5. 설정 (Settings)
+## 5. 설정 (Settings) {#setting}
 
 ![setting](/img/screenshots/menubar-setting.png)
 
