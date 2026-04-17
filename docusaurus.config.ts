@@ -76,7 +76,7 @@ const config: Config = {
         },
         footer: {
             style: 'dark',
-            copyright: `Copyright © ${new Date().getFullYear()} KnowledgeMatrix Plus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Center for Global R&D Data Analysis, Korea Institute of Science Technology Information.`,
         },
         prism: {
             theme: prismThemes.github,
