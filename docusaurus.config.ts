@@ -20,7 +20,7 @@ const config: Config = {
     projectName: 'kmplus-manual',
     deploymentBranch: 'gh-pages',
     trailingSlash: false,
-    onBrokenLinks: 'warn',
+    onBrokenLinks: 'throw',
 
     i18n: {
         defaultLocale: 'ko',
