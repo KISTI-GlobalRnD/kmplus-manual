@@ -24,13 +24,12 @@ sidebar_position: 2
 
 ## 2. 데이터 처리 가능 범위
 
-* 메모리 4,096MB (4GB)까지 사용 가능
+* 메모리 4,096MB (4GB)까지 사용 가능합니다.
   
-* 반입 레코드(Importing Raw Record) 수 제한
-  * 안정적인 레코드(Raw Record) 수 : WoS Plain Text 파일 기준 25,000건 내외
-    
+* 반입 레코드(Importing Raw Record) 수 제한은 없으나, 안정적인 레코드(Raw Record)는 WoS Plain Text 파일 기준으로 25,000건 내외입니다.
+*     
 * Excel Export 제한
-  * Excel 워크시트 제한으로 인하여, 다음을 초과하는 데이터의 Excel Export 시에 에러 발생 가능
+  * Excel 워크시트 제한으로 인하여, 다음을 초과하는 데이터의 Excel Export 시에 에러 발생할 수 있습니다.
   * .xlsx : 1,048,576 * 16,384 / .xls : 65,536 x 256
     
 * 사용자의 PC 환경에 따라 데이터 처리 속도와 성능이 다를 수 있습니다.
