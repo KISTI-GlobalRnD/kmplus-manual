@@ -1,9 +1,10 @@
 ---
-title: 차트 뷰
-sidebar_position: 3
+title: 메인 작업 영역 > 차트 뷰
+sidebar_position: 2
 ---
-
-분석된 통계 데이터를 막대, 파이, 선 그래프 등 다양한 차트로 시각화하여 보여줍니다.
+:::info
+데이터를 막대, 라인, 파이 그래프 등 다양한 차트로 시각화하여 보여줍니다.
+:::
 
 ![차트 뷰](/img/screenshots/chartview.png)
 

@@ -5,6 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
+    clientModules: ['./src/css/admonition-override.css'],
     title: 'KnowledgeMatrix Plus (KM+) Manual',
     tagline: '매뉴얼 문서',
     favicon: 'img/favicon.png',
@@ -14,9 +15,9 @@ const config: Config = {
     },
 
     url: 'https://kisti-globalrnd.github.io',
-    baseUrl: '/kmplus-doc/',
+    baseUrl: '/kmplus-manual/',
     organizationName: 'KISTI-GlobalRnD',
-    projectName: 'kmplus-doc',
+    projectName: 'kmplus-manual',
     deploymentBranch: 'gh-pages',
     trailingSlash: false,
     onBrokenLinks: 'throw',
@@ -60,7 +61,7 @@ const config: Config = {
         image: 'img/docusaurus-social-card.jpg',
         docs: {
             sidebar: {
-                autoCollapseCategories: true,
+                autoCollapseCategories: false,
             },
         },
         colorMode: {

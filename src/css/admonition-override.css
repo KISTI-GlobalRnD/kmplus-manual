@@ -1,0 +1,23 @@
+/* admonition 제목(정보, 노트 등) 숨기기 - 레이어 밖에서 강제 적용 */
+div[class^='theme-admonition'] .admonitionHeading_Gvgb,
+div[class*='theme-admonition'] div[class^='admonitionHeading'] {
+  display: none !important;
+}
+
+/* note 색상을 그린 계열로 변경 */
+.theme-admonition-note {
+  --ifm-color-secondary-contrast-background: #e8f5e9 !important;
+  border-color: #4caf50 !important;
+  background-color: #e8f5e9 !important;
+}
+[data-theme='dark'] .theme-admonition-note {
+  --ifm-color-secondary-contrast-background: #1b3d1f !important;
+  border-color: #66bb6a !important;
+  background-color: #1b3d1f !important;
+}
+
+/* 제목을 보여주고 싶을 때: show-title 클래스 사용 */
+div.show-title div[class^='theme-admonition'] .admonitionHeading_Gvgb,
+div.show-title div[class*='theme-admonition'] div[class^='admonitionHeading'] {
+  display: flex !important;
+}
