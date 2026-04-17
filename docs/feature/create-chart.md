@@ -3,7 +3,8 @@ title: 차트 생성
 sidebar_position: 12
 ---
 :::info
-필드 데이터를 기반으로 차트를 생성합니다.<br/>
+* 필드 데이터를 기반으로 차트를 생성할 수 있습니다.
+
 [`메뉴 바`](../program/menu-bar.md#chart) 또는 [`필드 리스트 툴바`](../program/workspace/fieldlistview.md#toolbar)를 통해 실행할 수 있습니다.
 
 ![chart](/img/screenshots/menubar-chart.png)
