@@ -76,7 +76,7 @@ const config: Config = {
         },
         footer: {
             style: 'dark',
-            copyright: `Copyright © ${new Date().getFullYear()} 한국과학기술정보연구원(KISTI) 글로벌R&D분석센터. ALL RIGHTS RESERVED.`
+            copyright: `Copyright © ${new Date().getFullYear()} 한국과학기술정보연구원 글로벌R&D분석센터. ALL RIGHTS RESERVED.<br/><a href="mailto:knowledgematrix@kisti.re.kr">knowledgematrix@kisti.re.kr</a>`
         },
         prism: {
             theme: prismThemes.github,
