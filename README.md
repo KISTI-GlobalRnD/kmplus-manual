@@ -14,8 +14,8 @@ KnowledgeMatrix Plus의 사용자 매뉴얼 사이트입니다. [Docusaurus](htt
 ### 프로젝트 클론
 
 ```bash
-git clone https://github.com/KISTI-GlobalRnD/kmplus-doc.git
-cd kmplus-doc
+git clone https://github.com/KISTI-GlobalRnD/kmplus-manual.git
+cd kmplus-manual
 ```
 
 ### 의존성 설치
@@ -61,7 +61,7 @@ npm run serve
 npm run pdf:local
 ```
 
-생성된 `kmplus-doc-full.pdf` 파일은 프로젝트 루트 폴더에 저장됩니다.
+생성된 `kmplus-manual-full.pdf` 파일은 프로젝트 루트 폴더에 저장됩니다.
 
 **특징:**
 
@@ -167,7 +167,7 @@ static/
 
 ### GitHub 저장소 설정
 
-1. GitHub에서 저장소 생성 (이미 생성됨: `KISTI-GlobalRnD/kmplus-doc`)
+1. GitHub에서 저장소 생성 (이미 생성됨: `KISTI-GlobalRnD/kmplus-manual`)
 2. Settings > Pages에서 Source를 "GitHub Actions"로 설정 (자동 배포용)
 
 ### 자동 배포 (추천)
@@ -176,7 +176,7 @@ static/
 
 1. 변경 사항을 `main`에 push
 2. Actions 탭에서 배포 상태 확인
-3. `https://kisti-globalrnd.github.io/kmplus-doc/` 접속
+3. `https://kisti-globalrnd.github.io/kmplus-manual/` 접속
 
 ### 수동 배포 (선택: gh-pages 브랜치)
 
@@ -186,9 +186,9 @@ static/
 
 ```typescript
 url: 'https://kisti-globalrnd.github.io',
-baseUrl: '/kmplus-doc/',
+baseUrl: '/kmplus-manual/',
 organizationName: 'KISTI-GlobalRnD',
-projectName: 'kmplus-doc',
+projectName: 'kmplus-manual',
 ```
 
 다음 명령어로 배포:
@@ -208,7 +208,7 @@ GIT_USER=KISTI-GlobalRnD npm run deploy
 ## 프로젝트 구조
 
 ```
-kmplus-doc/
+kmplus-manual/
 ├── docs/                    # 문서 파일들
 ├── static/                  # 정적 파일 (이미지 등)
 │   └── img/
