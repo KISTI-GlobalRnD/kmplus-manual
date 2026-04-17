@@ -128,6 +128,39 @@ VantagePoint 소프트웨어와 호환되는 시소러스 형식
 
 ---
 
+## 3. 시소러스 에디터 활용 예시
+
+### 3.1. 시소러스 생성
+
+1. **Add item** 버튼 클릭
+2. **Add Name** 입력: "Computer"
+3. Item 선택 후 **Add sub item** 버튼 클릭
+4. **Sub item** 추가:
+   - Add Name: "PC", Regular Expression: "Matching"
+   - Add Name: "personal computer", Regular Expression: "Matching"
+   - Add Name: "desktop", Regular Expression: "Including"
+5. **Save** 버튼으로 파일 저장
+
+**결과 구조:**
+
+```etc
+Computer
+ └ ^PC$
+ └ ^personal computer$
+ └ desktop
+```
+
+### 3.2. 다른 형식의 시소러스로 변환
+
+1. **Open file** 버튼으로 KM+ 형식 시소러스 파일 열기 (.the, .tsv, .json)
+2. 필요한 경우 내용 편집
+3. **Save as** 클릭
+4. 시소러스 파일 형식 선택 (KM+, VOSviewer, VantagePoint)
+5. 저장 위치 및 파일명 지정
+6. 해당 소프트웨어에서 해당 파일 사용
+
+---
+
 ## [참고] 정규표현식 옵션
 
 Sub item에 적용할 수 있는 정규표현식 패턴 옵션입니다.
@@ -177,37 +210,3 @@ Sub item에 적용할 수 있는 정규표현식 패턴 옵션입니다.
   - ✓ "computer"
   - ✗ "computers"
   - ✗ "supercomputer"
-
----
-
-## 시소러스 에디터 활용 예시
-
-### 예시 1: 기본적인 시소러스 생성
-
-1. **Add item** 버튼 클릭
-2. **Add Name** 입력: "Computer"
-3. Item 선택 후 **Add sub item** 버튼 클릭
-4. **Sub item** 추가:
-   - Add Name: "PC", Regular Expression: "Matching"
-   - Add Name: "personal computer", Regular Expression: "Matching"
-   - Add Name: "desktop", Regular Expression: "Including"
-5. **Save** 버튼으로 파일 저장
-
-**결과 구조:**
-
-```etc
-Computer
- └ ^PC$
- └ ^personal computer$
- └ desktop
-```
-
-### 예시 2: VOSViewer 형식으로 변환
-
-1. **Open file** 버튼으로 KM+ 형식 시소러스 파일 열기 (.the, .tsv, .json)
-2. 필요한 경우 내용 편집
-3. **Save as** 클릭
-4. 파일 형식: **VOSViewer** 선택
-5. 저장 위치 및 파일명 지정
-6. **VOSviewer** 소프트웨어에서 해당 파일 사용
-
