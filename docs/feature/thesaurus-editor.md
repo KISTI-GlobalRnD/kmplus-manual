@@ -4,10 +4,9 @@ sidebar_position: 13
 ---
 
 :::info
-* 시소러스 에디터는 용어의 계층적 관계를 정의하고 관리하는 도구입니다.
+* 시소러스 편집기는 용어의 계층적 관계를 정의하고 관리하는 도구입니다.
 * 대표 명칭(Primary Term)과 하위 서브 명칭(Sub Terms)을 생성하여 용어 간의 관계를 정의하고, 정규표현식을 활용한 패턴 매칭 기능을 제공합니다.
-
-[`메뉴바 : Setting > Thesaurus Editor`](../program/menu-bar.md#setting) 에서 실행할 수 있습니다.
+* 시소러스 편집기는 [`메뉴바 : Setting > Thesaurus Editor`](../program/menu-bar.md#setting) 에서 실행할 수 있습니다.
 
 ![setting](/img/screenshots/menubar-setting.png)
 :::
