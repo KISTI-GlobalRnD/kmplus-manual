@@ -4,8 +4,6 @@ title: KM+ 소개
 sidebar_position: 1
 ---
 
-![메인이미지](/img/screenshots/KM_Splash_260402.png)
-
 ## 1. KnowledgeMatrix Plus 소개
 
 <div className="show-title">
