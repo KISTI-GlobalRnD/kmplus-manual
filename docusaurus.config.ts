@@ -76,7 +76,7 @@ const config: Config = {
         },
         footer: {
             style: 'dark',
-            copyright: `Copyright © ${new Date().getFullYear()} Center for Global R&D Data Analysis, Korea Institute of Science Technology Information.`,
+            copyright: `Copyright © ${new Date().getFullYear()} 한국과학기술정보연구원(KISTI) 글로벌R&D분석센터. ALL RIGHTS RESERVED.`
         },
         prism: {
             theme: prismThemes.github,
