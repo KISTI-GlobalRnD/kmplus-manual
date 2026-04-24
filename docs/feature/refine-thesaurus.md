@@ -20,11 +20,11 @@ sidebar_position: 9
 
 ![시소러스](/img/screenshots/thesaurus-1.png)
 
-**[STEP 3]** 저장되어 있는 시소러스 파일 (*.the)을 선택합니다.
+**[STEP 3]** 적용할 시소러스 파일의 형식과 파일(*.the)을 선택합니다.
 
 ![시소러스-적용](/img/screenshots/thesaurus-2.png)
 
-* 적용 가능한 시소러스는 [`시소러스 편집기 : KM+ 형식`](../feature/thesaurus-editor.md#thesaurus-km-type)를 참고합니다.
+* 적용 가능한 시소러스는 [`시소러스 편집기 : 지원 파일 형식`](../feature/thesaurus-editor.md#thesaurus)를 참고합니다.
 
 
 **[STEP 4]** 프로젝트 뷰에 생성된 새로운 필드와 시소러스 적용 결과를 리스트로 확인합니다. 
