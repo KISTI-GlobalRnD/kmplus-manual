@@ -62,14 +62,14 @@ sidebar_position: 13
 ![시소러스 에디터 저장하기](/img/screenshots/thesaurus-editor-save.png)
 
 
-## 2. 지원 파일 형식
+## 2. 지원 파일 형식 {#thesaurus}
 
 :::info
 * Thesaurus Editor는 KM+, VOSviewer, VantagePoint의 시소러스 형식을 모두 지원합니다.
 * 파일을 열 때 인코딩이 자동으로 감지되며, UTF-8, EUC-KR 등 다양한 인코딩을 지원합니다.
 :::
 
-### 2.1. KM+ 형식 {#thesaurus-km-type}
+### 2.1. KM+ 형식
 
 KM 자체 시소러스 형식으로, 다음 확장자를 지원합니다
 
