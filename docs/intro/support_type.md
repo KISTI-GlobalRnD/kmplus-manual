@@ -13,8 +13,8 @@ KM+에서 처리 가능한 데이터는 다음과 같습니다.
 
 ## 1. 사전에 정의된 데이터 (Import Filter 활용)
 
-* Web of Science: Plain text, TSV format(tab-separated format), Excel
-* OPEN ALEX: CSV format (comma-separated format)
+* Web of Science: Plain Text, TSV format(tab-separated format), Excel
+* OPEN ALEX: CSV format (comma-separated format), Plain Text
 * SCOPUS: CSV format (comma-separated format)
 * SCOPUS (KISTI DB): Excel
 * Dimensions (논문): Excel
