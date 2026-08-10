@@ -86,7 +86,9 @@ OpenAlex 데이터에 대해서 가능합니다.
 **[STEP 2]** 프로젝트 이름 및 데이터 입력
     * **Project Name** 입력합니다.
     * Data type 항목에서 **API**를 클릭합니다.
-    * **API URL** 창에 OpenAlex 검색 후, 우측 상단의 Copy API call에서 복사한 URL을 붙여넣기(Ctrl+v)하고 **Finish** 버튼을 클릭합니다.
+    * **API URL** 창에 OpenAlex 검색 후, 우측 상단의 Copy API call에서 복사한 URL을 붙여넣기(Ctrl+v)합니다.
+    * **API Key** 창에 OpenAlex에서 발급받은 API Key를 입력합니다.
+    * **Finish** 버튼을 클릭합니다.
 
 ![프로젝트 생성 OpenAlex API](/img/screenshots/create-project-api-1.png)
 
