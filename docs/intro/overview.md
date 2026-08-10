@@ -6,7 +6,7 @@ sidebar_position: 1
 # KnowledgeMatrix Plus Manual
 
 :::note
-- 본 매뉴얼은 **KM+ ver. 0.9.1 (2026.8.6.배포)** 를 기준으로 작성되었습니다.
+- 본 매뉴얼은 **KM+ ver. 0.91 (2026.8.6.배포)** 를 기준으로 작성되었습니다.
 - 매뉴얼 마지막 업데이트 : 2026.8.6.
 - PDF 버전 다운로드 :
   - [KnowledgeMatrix Plus Manual (KOR)_260528.pdf](https://github.com/user-attachments/files/28095207/KnowledgeMatrix.Plus.Manual.KOR._260528.pdf)
